@@ -98,6 +98,15 @@ AtlasVanguard welcomes contributors aligned with its research and engineering fo
 - academic collaborators
 - advanced students in relevant disciplines
 
+New contributors are onboarded through a structured intake process.
+
+👉 **Apply for Membership**  
+[https://docs.google.com/forms/d/e/1FAIpQLSf3-1hb6cY9J7ClfZIyjDZiUm_W6vpb5KEUl-1e2r6fi2-p8Q/viewform
+](https://docs.google.com/forms/d/e/1FAIpQLSf3-1hb6cY9J7ClfZIyjDZiUm_W6vpb5KEUl-1e2r6fi2-p8Q/viewform
+)
+
+Successful applicants are assigned to relevant SIGs and invited to the collaboration workspace (Slack).
+
 ---
 
 ## Governance
