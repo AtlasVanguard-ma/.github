@@ -1,179 +1,119 @@
 # AtlasVanguard
 
-AtlasVanguard is a Moroccan quantitative financial observability and market structure initiative focused on derivatives analytics, systemic stress research, and financial infrastructure development within Morocco’s evolving capital markets ecosystem.
+AtlasVanguard is a Moroccan quantitative financial observability and market intelligence initiative.
 
-The initiative combines:
-
-* quantitative finance
-* market structure research
-* risk analytics
-* financial observability systems
-* software and data infrastructure
-
-to support deeper analytical visibility into Moroccan financial markets and their transition toward a derivatives-enabled ecosystem.
-
-AtlasVanguard also serves as a collaborative bridge between:
-
-* financial professionals
-* quantitative researchers
-* market analysts
-* software engineers
-* data engineers
-* students and academic researchers
-
-with the objective of connecting financial domain expertise with modern analytical and engineering capabilities.
+It connects financial professionals, quantitative researchers, and software engineers in a shared environment to study and build financial market infrastructure, with a focus on derivatives, volatility, and market structure in Morocco’s evolving financial system.
 
 ---
 
-# Vision
+## Strategic Context
 
-Support the development of transparent, technically credible, and research-oriented quantitative infrastructure for Morocco’s financial markets.
+Morocco’s financial markets are undergoing a structural transition driven by the introduction of derivatives and the modernization of capital market infrastructure.
 
-AtlasVanguard aims to contribute to the modernization of Morocco’s financial ecosystem by enabling:
+The emergence of the regulated market à terme framework under  
+[Loi n° 42-12 relative aux instruments financiers à terme](https://www.ammc.ma/fr/reglementations/loi-ndeg-42-12-relative-au-marche-terme-dinstruments-financiers)  
+and its oversight by the **Autorité Marocaine du Marché des Capitaux (AMMC)** marks a foundational shift toward structured derivatives markets within the Casablanca Stock Exchange ecosystem.
 
-* market observability
-* quantitative research
-* derivatives analytics
-* systemic stress analysis
-* volatility and exposure monitoring
-* educational accessibility around quantitative finance and market infrastructure
+This transition introduces new requirements for:
+- volatility and risk monitoring  
+- cross-asset correlation analysis  
+- benchmark and sector exposure tracking  
+- systemic stress and contagion visibility  
+- reproducible financial market analytics  
 
-The long-term objective is to help establish a collaborative ecosystem around quantitative finance, financial engineering, and market observability within Morocco.
+It also aligns with broader financial modernization and digital infrastructure development efforts led by institutions such as  
+[Bank Al-Maghrib (BAM)](https://www.bkam.ma/).
 
----
-
-# Research & Platform Areas
-
-## Derivatives & Futures Observability
-
-* MASI Futures monitoring
-* spot/futures interaction analysis
-* futures basis analytics
-* hedge exposure research
-* derivatives-related volatility analysis
-
-## Market Structure Analytics
-
-* sector correlation analysis
-* rolling beta analytics
-* cross-sector contagion analysis
-* market regime detection
-* benchmark exposure mapping
-
-## Risk & Stress Research
-
-* volatility regime analysis
-* market stress indicators
-* systemic stress propagation
-* concentration and exposure analytics
-* financial stability observability
-
-## Quantitative Infrastructure
-
-* financial time-series infrastructure
-* market data normalization
-* quantitative computation engines
-* observability dashboards
-* reproducible analytics pipelines
+AtlasVanguard is positioned as a research and infrastructure initiative supporting this transition by building the analytical layer required to observe and understand these evolving market structures.
 
 ---
 
-# Current Initiative
+## Focus Areas
 
-## MASI Futures Observatory
-
-The MASI Futures Observatory is a quantitative observability platform designed to analyze the structural impact of derivatives and futures markets within Morocco’s financial ecosystem.
-
-The platform focuses on:
-
-* rolling volatility analytics
-* benchmark and sector correlations
-* beta exposure analysis
-* stress propagation monitoring
-* futures-related market dynamics
-* sector observability dashboards
-* quantitative market structure research
+- MASI & sector index analytics
+- Futures and spot market interaction
+- Volatility and correlation dynamics
+- Beta and exposure modeling
+- Market stress and contagion signals
+- Systemic risk and regime behavior
+- Macro-financial observability
 
 ---
 
-# Why AtlasVanguard Exists
+## Mission
 
-Morocco’s financial ecosystem is entering a structural transition with the introduction of derivatives and futures markets.
-
-While this evolution creates opportunities for:
-
-* liquidity development
-* institutional participation
-* hedging mechanisms
-* market sophistication
-
-it also introduces new analytical and infrastructural requirements around:
-
-* volatility monitoring
-* leverage-related stress
-* cross-sector contagion
-* hedge dynamics
-* benchmark exposure
-* market stability visibility
-
-AtlasVanguard was created to help address the gap between:
-
-* traditional financial expertise
-  and
-* modern quantitative and engineering infrastructure.
-
-The initiative aims to create an environment where finance professionals, quantitative researchers, and engineers can collaborate on institutionally relevant analytical systems focused on Moroccan market realities.
+Build transparent and reproducible financial observability infrastructure for Morocco’s evolving markets, enabling structured understanding of derivatives dynamics, market structure, and systemic behavior.
 
 ---
 
-# Governance & Collaboration
+## Current Direction
 
-AtlasVanguard operates through an open governance and research collaboration model inspired by large-scale technical and research communities.
+AtlasVanguard is actively building the foundations of a modular financial analytics platform, including:
 
-The initiative is organized through:
+- Market data ingestion and normalization pipelines
+- Quantitative analytics and research engines
+- Sector and index monitoring systems
+- Volatility, correlation, and risk analysis tooling
+- Internal APIs for structured financial data access
+- Observability layers for market behavior analysis
 
-* Special Interest Groups (SIGs)
-* governance charters
-* RFC-based discussions
-* collaborative research workflows
-* technical and analytical working groups
-
-Areas currently include:
-
-* Quantitative Research
-* Market Structure
-* Risk & Stress Analytics
-* Data Infrastructure
-* Observability & Communication
+The focus is on durable infrastructure and reproducible research systems rather than isolated models or ad-hoc analytics.
 
 ---
 
-# Participation
+## Why This Matters
 
-AtlasVanguard welcomes participation from:
+Modern financial systems depend on interactions between:
+- market structure
+- derivatives instruments
+- liquidity and volatility regimes
+- systemic feedback loops
 
-* quantitative finance students
-* financial engineering students
-* software engineers
-* data engineers
-* market analysts
-* researchers
-* academic institutions
-* risk professionals
-* contributors interested in financial observability infrastructure
+In emerging markets, these interactions are often not systematically observable through open, reproducible infrastructure.
 
-The initiative is research-oriented and infrastructure-oriented.
-
-AtlasVanguard does not provide:
-
-* investment advice
-* trading recommendations
-* brokerage services
-* speculative trading systems
-* portfolio management services
+AtlasVanguard addresses this gap by building quantitative observability systems tailored to Moroccan market structure under the introduction of derivatives.
 
 ---
 
-# Mission
+## Collaboration Model
 
-Build collaborative and technically credible quantitative observability infrastructure supporting research, education, and market structure visibility within Morocco’s evolving financial ecosystem.
+AtlasVanguard brings together:
+
+- **Financial professionals** → market structure and interpretation
+- **Quants / researchers** → models, risk, and quantitative methods
+- **Software engineers** → infrastructure, data systems, and computation
+
+All contributions converge into shared analytical systems rather than isolated workflows.
+
+---
+
+## Participation
+
+AtlasVanguard welcomes contributors aligned with its research and engineering focus:
+
+- quantitative analysts and researchers
+- financial engineers and data infrastructure contributors
+- market structure and systemic risk researchers
+- open-source developers
+- academic collaborators
+- advanced students in relevant disciplines
+
+---
+
+## Governance
+
+AtlasVanguard operates through an open governance model inspired by large-scale technical and research organizations.
+
+- Special Interest Groups (SIGs)
+- RFC-based proposal and review process
+- Defined charters for scope and responsibilities
+- Structured collaboration across research and engineering domains
+
+---
+
+## Non-Goals
+
+- Trading systems
+- Investment advice
+- Brokerage or execution infrastructure
+- Speculative strategies
