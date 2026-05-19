@@ -61,17 +61,6 @@ The focus is on durable infrastructure and reproducible research systems rather 
 
 ---
 
-## Active Work (Live System)
-
-AtlasVanguard is currently transitioning from specification to implementation.
-
-Current engineering efforts include:
-- quant pipeline execution system (returns, volatility, beta, correlation)
-- structured storage of market observability metrics
-- initial MASI / sector benchmark modeling
-- governance system operationalization (SIG + RFC workflows)
-
-
 ## Why This Matters
 
 Modern financial systems depend on interactions between:
@@ -84,6 +73,18 @@ In emerging markets, these interactions are often not systematically observable 
 
 AtlasVanguard addresses this gap by building quantitative observability systems tailored to Moroccan market structure under the introduction of derivatives.
 
+---
+
+
+## Active Work
+
+AtlasVanguard is currently transitioning from specification to implementation.
+
+Current engineering efforts include:
+- quant pipeline execution system (returns, volatility, beta, correlation)
+- structured storage of market observability metrics
+- initial MASI / sector benchmark modeling
+- governance system operationalization (SIG + RFC workflows)
 ---
 
 ## Collaboration Model
@@ -118,13 +119,15 @@ New contributors are onboarded through a structured intake process.
 
 Successful applicants are assigned to relevant SIGs and invited to the collaboration workspace (Slack).
 
+Read more about our sigs: [https://github.com/AtlasVanguard-ma/governance/blob/main/SIGS.md](SIGs)
+
 ---
 
 ## Governance
 
 AtlasVanguard operates through an open governance model inspired by large-scale technical and research organizations.
 
-- Special Interest Groups (SIGs)
+- Special Interest Groups ([https://github.com/AtlasVanguard-ma/governance/blob/main/SIGS.md](SIGs))
 - RFC-based proposal and review process
 - Defined charters for scope and responsibilities
 - Structured collaboration across research and engineering domains
