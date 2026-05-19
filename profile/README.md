@@ -61,6 +61,17 @@ The focus is on durable infrastructure and reproducible research systems rather 
 
 ---
 
+## Active Work (Live System)
+
+AtlasVanguard is currently transitioning from specification to implementation.
+
+Current engineering efforts include:
+- quant pipeline execution system (returns, volatility, beta, correlation)
+- structured storage of market observability metrics
+- initial MASI / sector benchmark modeling
+- governance system operationalization (SIG + RFC workflows)
+
+
 ## Why This Matters
 
 Modern financial systems depend on interactions between:
